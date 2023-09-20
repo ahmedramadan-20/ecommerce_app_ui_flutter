@@ -37,11 +37,14 @@ class _HomePageState extends State<HomePage> {
           elevation: 0,
           backgroundColor: Colors.transparent,
           leading: Builder(builder: (context) {
-            return IconButton(
-              icon: const Icon(Icons.menu),
-              onPressed: () {
-                Scaffold.of(context).openDrawer();
-              },
+            return Padding(
+              padding: const EdgeInsets.only(left: 12.0),
+              child: IconButton(
+                icon: const Icon(Icons.menu),
+                onPressed: () {
+                  Scaffold.of(context).openDrawer();
+                },
+              ),
             );
           })),
       bottomNavigationBar: MyBottomNavBar(
