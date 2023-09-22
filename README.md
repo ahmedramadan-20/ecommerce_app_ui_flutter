@@ -8,6 +8,9 @@ A new Flutter e-commerce app UI with provider.
 ![Screenshot_1695260154](./assets/screens/3.png )
 ![Screenshot_1695260154](./assets/screens/4.png )
 
+## Result
+![Screenshot_1695260154](./assets/screens/result.gif )
+
 
 ## Getting Started
 
