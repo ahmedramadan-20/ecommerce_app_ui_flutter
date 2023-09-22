@@ -4,9 +4,9 @@ A new Flutter e-commerce app UI with provider.
 
 ## Screenshots
 ![Screenshot_1695260154](./assets/screens/1.png )
-![Screenshot_1695260159](https://github.com/ahmedramadan-20/ecommerce_app_ui_flutter/assets/28817140/82b28530-7b52-487e-9ea9-d72894b76db4 )
-![Screenshot_1695260162](https://github.com/ahmedramadan-20/ecommerce_app_ui_flutter/assets/28817140/f396673b-5e59-4270-ad9b-02724c488089 )
-![Screenshot_1695260168](https://github.com/ahmedramadan-20/ecommerce_app_ui_flutter/assets/28817140/5472a0a6-71d7-4261-bcaa-92e8ee62ff4c )
+![Screenshot_1695260154](./assets/screens/2.png )
+![Screenshot_1695260154](./assets/screens/3.png )
+![Screenshot_1695260154](./assets/screens/4.png )
 
 
 ## Getting Started
