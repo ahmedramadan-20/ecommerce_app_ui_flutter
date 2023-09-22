@@ -3,10 +3,10 @@
 A new Flutter e-commerce app UI with provider.
 
 ## Screenshots
-![Screenshot_1695260154](https://github.com/ahmedramadan-20/ecommerce_app_ui_flutter/assets/28817140/53de06a8-b571-481a-afe8-56e9c4736f7f | width=100)
-![Screenshot_1695260159](https://github.com/ahmedramadan-20/ecommerce_app_ui_flutter/assets/28817140/82b28530-7b52-487e-9ea9-d72894b76db4 | width=100)
-![Screenshot_1695260162](https://github.com/ahmedramadan-20/ecommerce_app_ui_flutter/assets/28817140/f396673b-5e59-4270-ad9b-02724c488089 | width=100)
-![Screenshot_1695260168](https://github.com/ahmedramadan-20/ecommerce_app_ui_flutter/assets/28817140/5472a0a6-71d7-4261-bcaa-92e8ee62ff4c | width=100)
+![Screenshot_1695260154](https://github.com/ahmedramadan-20/ecommerce_app_ui_flutter/assets/28817140/53de06a8-b571-481a-afe8-56e9c4736f7f )
+![Screenshot_1695260159](https://github.com/ahmedramadan-20/ecommerce_app_ui_flutter/assets/28817140/82b28530-7b52-487e-9ea9-d72894b76db4 )
+![Screenshot_1695260162](https://github.com/ahmedramadan-20/ecommerce_app_ui_flutter/assets/28817140/f396673b-5e59-4270-ad9b-02724c488089 )
+![Screenshot_1695260168](https://github.com/ahmedramadan-20/ecommerce_app_ui_flutter/assets/28817140/5472a0a6-71d7-4261-bcaa-92e8ee62ff4c )
 
 
 ## Getting Started
