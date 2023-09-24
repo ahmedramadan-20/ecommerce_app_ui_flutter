@@ -3,8 +3,8 @@
 A new Flutter e-commerce app UI with provider.
 
 ## Screenshots
-![Screenshot_1695260154](./assets/screens/1.png )
-![Screenshot_1695260154](./assets/screens/2.png )
+<img alt="Screenshot_1695260154" height="400" src="./assets/screens/1.png"/>
+<img alt="Screenshot_1695260154" height="400" src="./assets/screens/2.png"/>
 ![Screenshot_1695260154](./assets/screens/3.png )
 ![Screenshot_1695260154](./assets/screens/4.png )
 
